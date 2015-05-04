@@ -1,52 +1,27 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red38\green38\blue38;
-}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl400
+Start: Mon, 27 Apr 2015 18:10:43 -0800
+End: Mon, 27 Apr 2015 20:30:34 -0800
+Worked on multtable.php, got min and max multiplicand working
 
-\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Start: Mon, 27 Apr 2015 18:10:43 -0800\
-End: Mon, 27 Apr 2015 20:30:34 -0800\
-Worked on multtable.php, got min and max multiplicand working\
-\
-\pard\pardeftab720\sl400
-\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 Start: Tues, 28 Apr 2015 18:00:23 -0800\
-End: Tues, 28 Apr 2015 20:23:58 -0800\
-Worked on and completed multtable.php\
-\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\sl400
-\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 Start: Wed, 29 Apr 2015 18:00:45 -0800\
-End: Wed, 29 Apr 2015 21:07:39 -0800\
-Worked on and completed loopback.php\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\
-\pard\pardeftab720\sl400
-\cf2 Start: Thurs, 30 Apr 2015 18:45:34 -0800\
-End: Thurs, 30 Apr 2015 20:34:38 -0800\
-Worked on login.php and content1.php, completed login.php\
-\
-\pard\pardeftab720\sl400
-\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 Start: Friday, 1 May 2015 18:00:18 -0800\
-End: Friday, 1 May 2015 21:10:47 -0800\
-Worked on content1.php\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\sl400
-\cf2 \
-\pard\pardeftab720\sl400
-\cf4 \cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 Start: Saturday, 2 May 2015 10:17:44 -0800\
-End: Saturday, 2 May 2015 15:30:39 -0800\
-Completed content1.php, worked on content2.php\
-\pard\pardeftab720\sl400
-\cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\sl400
-\cf2 Start: Sun, 3 May 2015 11:30:35 -0800\
-End: Sun, 3 May 2015 14:10:44 -0800\
-Completed content2.php}
+Start: Tues, 28 Apr 2015 18:00:23 -0800
+End: Tues, 28 Apr 2015 20:23:58 -0800
+Worked on and completed multtable.php
+
+Start: Wed, 29 Apr 2015 18:00:45 -0800
+End: Wed, 29 Apr 2015 21:07:39 -0800
+Worked on and completed loopback.php
+
+Start: Thurs, 30 Apr 2015 18:45:34 -0800
+End: Thurs, 30 Apr 2015 20:34:38 -0800
+Worked on login.php and content1.php, completed login.php
+
+Start: Friday, 1 May 2015 18:00:18 -0800
+End: Friday, 1 May 2015 21:10:47 -0800
+Worked on content1.php
+
+Start: Saturday, 2 May 2015 10:17:44 -0800
+End: Saturday, 2 May 2015 15:30:39 -0800
+Completed content1.php, worked on content2.php
+
+Start: Sun, 3 May 2015 11:30:35 -0800
+End: Sun, 3 May 2015 14:10:44 -0800
+Completed content2.php
